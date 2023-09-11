@@ -32,9 +32,6 @@ Find this extension on the [Microsoft Store](https://microsoftedge.microsoft.com
 Find this extension on the [Opera Extensions site](https://addons.opera.com/en/extensions/details/cookie-editor-2/).  
 [![Opera add-ons](readme/get-opera.png )](https://addons.opera.com/en/extensions/details/cookie-editor-2/)
 
-## Feature Suggestions or Bug Reports
-To submit a feature suggestion or file a bug report, please [create a new issue here](https://github.com/Moustachauve/cookie-editor/issues).
-
 ## How to build
 
 1. Run npm install to make sure you have all the required packages installed.
